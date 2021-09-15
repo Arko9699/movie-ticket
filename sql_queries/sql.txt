@@ -20,6 +20,8 @@ addons varchar(100),
 addons_price int
 );
 
+##---Shang-Chi and the Legend of the Ten Rings--##
+
 ###---Hiland Park---###
 
 #2d
@@ -110,6 +112,47 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'S
 insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'South City Mall', '07:00 PM', 'English', '2h 13m',
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '3D');
+
+##---Pierrot Le Fou--##
+
+###---Hiland Park---###
+
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '08:00 AM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '12:30 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '06:00 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+
+###---Quest Mall---###
+
+#2d
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '09:40 AM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '01:00 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '08:00 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+
+###---South City Mall---###
+
+#2d
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '11:00 AM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '03:30 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '07:00 PM', 'English', '2h 13m',
+                                 'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
+                                 'UA', 'Action, Adventure, Fantasy', '2D');
+
 
 
 
