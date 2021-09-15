@@ -52,7 +52,6 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'H
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '3D');
 
-
 ###---Quest Mall---###
 
 #2d
@@ -113,45 +112,269 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'S
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '3D');
 
+
 ##---Pierrot Le Fou--##
 
 ###---Hiland Park---###
 
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '08:00 AM', 'English', '2h 13m',
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '08:00 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '12:30 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '12:30 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '06:00 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '06:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
+                                 'A', 'Crime, Drama, Romance', '2D');
 
 ###---Quest Mall---###
 
 #2d
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '09:40 AM', 'English', '2h 13m',
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '09:40 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '01:00 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '01:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '08:00 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '08:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
+                                 'A', 'Crime, Drama, Romance', '2D');
 
 ###---South City Mall---###
 
 #2d
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '11:00 AM', 'English', '2h 13m',
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '11:00 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '03:30 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '03:30 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '07:00 PM', 'English', '2h 13m',
+                                 'A', 'Crime, Drama, Romance', '2D');
+insert into movie_details values('Pierrot Le Fou', 'South City Mall', '07:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
-                                 'UA', 'Action, Adventure, Fantasy', '2D');
+                                 'A', 'Crime, Drama, Romance', '2D');
+
+
+##---Fast and Furious 9--##
+
+###---Hiland Park---###
+
+#2d
+insert into movie_details values('Fast and Furious 9', 'Hiland Park', '08:00 AM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Hiland Park', '12:30 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Hiland Park', '06:00 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+#hindi
+insert into movie_details values('Fast and Furious 9', 'Hiland Park', '10:00 AM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Hiland Park', '05:30 PM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+
+
+###---Quest Mall---###
+
+#2d
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '09:40 AM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '01:00 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '08:00 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+#hindi
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '10:00 AM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '05:30 PM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+
+
+###---South City Mall---###
+
+#2d
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '11:00 AM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '03:30 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '07:00 PM', 'English', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+#hindi
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '10:00 AM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '05:30 PM', 'Hindi', '2h 23m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Adventure, Crime, Thriller', '2D');
+
+
+##---Bell Bottom--##
+
+###---Hiland Park---###
+
+#hindi
+insert into movie_details values('Bell Bottom', 'Hiland Park', '10:00 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '05:30 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+#3d
+insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '06:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '12:30 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+
+###---Quest Mall---###
+
+
+#hindi
+insert into movie_details values('Bell Bottom', 'Quest Mall', '10:00 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'Quest Mall', '05:30 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+#3d
+insert into movie_details values('Bell Bottom', 'Quest Mall', '09:40 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'Quest Mall', '01:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'Quest Mall', '08:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+
+###---South City Mall---###
+
+
+#hindi
+insert into movie_details values('Bell Bottom', 'South City Mall', '10:00 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'South City Mall', '05:30 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '2D');
+
+#3d
+insert into movie_details values('Bell Bottom', 'South City Mall', '11:00 AM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'South City Mall', '03:30 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+insert into movie_details values('Bell Bottom', 'South City Mall', '07:00 PM', 'Hindi', '2h 10m',
+                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'UA', 'Action, Thriller', '3D');
+
+##---Free Guy--##
+
+###---Hiland Park---###
+
+#2d
+insert into movie_details values('Free Guy', 'Hiland Park', '08:00 AM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Hiland Park', '12:30 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Hiland Park', '06:00 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+#hindi
+insert into movie_details values('Free Guy', 'Hiland Park', '10:00 AM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Hiland Park', '05:30 PM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+
+
+###---Quest Mall---###
+
+#2d
+insert into movie_details values('Free Guy', 'Quest Mall', '09:40 AM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Quest Mall', '01:00 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Quest Mall', '08:00 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+#hindi
+insert into movie_details values('Free Guy', 'Quest Mall', '10:00 AM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'Quest Mall', '05:30 PM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+
+
+###---South City Mall---###
+
+#2d
+insert into movie_details values('Free Guy', 'South City Mall', '11:00 AM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'South City Mall', '03:30 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'South City Mall', '07:00 PM', 'English', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+#hindi
+insert into movie_details values('Free Guy', 'South City Mall', '10:00 AM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+insert into movie_details values('Free Guy', 'South City Mall', '05:30 PM', 'Hindi', '1h 55m',
+                                 'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
+                                 'A', 'Action, Adventure, Comedy, Fantasy', '2D');
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
