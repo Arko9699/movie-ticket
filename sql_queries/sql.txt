@@ -356,28 +356,3 @@ insert into movie_details values('Free Guy', 'South City Mall', '10:00 AM', 'Hin
 insert into movie_details values('Free Guy', 'South City Mall', '05:30 PM', 'Hindi', '1h 55m',
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
