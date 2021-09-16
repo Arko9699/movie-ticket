@@ -1,8 +1,7 @@
 create database master;
 use master;
 
-create table movie_details
-(
+create table movie_details(
 movie_name varchar(100),
 movie_venue varchar(100),
 movie_timings varchar(100),
