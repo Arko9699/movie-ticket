@@ -14,12 +14,6 @@ movie_genre varchar(50),
 movie_d varchar(10)
 );
 
-create table addon_details
-(
-addons varchar(100),
-addons_price int
-);
-
 ##---Shang-Chi and the Legend of the Ten Rings--##
 
 ###---Hiland Park---###
