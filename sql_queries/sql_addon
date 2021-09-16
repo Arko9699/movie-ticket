@@ -1,0 +1,5 @@
+create table addon_details
+(
+addons varchar(100),
+addons_price int
+);
