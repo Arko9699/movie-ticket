@@ -1,0 +1,18 @@
+create table addon_details
+(
+addons varchar(100),
+addons_price int,
+addons_size varchar(100)
+);
+
+insert into addon_details values('Coca Cola',70,'Regular');
+insert into addon_details values('Coca Cola',85,'Large');
+
+insert into addon_details values('French Fries',100,'Regular');
+
+insert into addon_details values('Popcorn',90,'Regular');
+insert into addon_details values('Popcorn',110,'Large');
+
+insert into addon_details values('Coffee (Hot)',80,'Regular');
+
+insert into addon_details values('Coffee (Cold)',80,'Regular');

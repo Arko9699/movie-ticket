@@ -1,8 +1,7 @@
 create database master;
 use master;
 
-create table movie_details
-(
+create table movie_details(
 movie_name varchar(100),
 movie_venue varchar(100),
 movie_timings varchar(100),
@@ -12,12 +11,6 @@ movie_desc varchar(1000),
 movie_rating varchar(10),
 movie_genre varchar(50),
 movie_d varchar(10)
-);
-
-create table addon_details
-(
-addons varchar(100),
-addons_price int
 );
 
 ##---Shang-Chi and the Legend of the Ten Rings--##
