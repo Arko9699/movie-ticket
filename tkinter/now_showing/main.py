@@ -1,6 +1,6 @@
 from tkinter import *
 from NowShowing import *
-NowSHowingObject = movies()
+NowShowingObject = movies()
 nowshowing.rootinclass.mainloop()
 if nowshowing.nowshowingbool == "True":
     newwindow = Tk()
