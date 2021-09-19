@@ -19,7 +19,6 @@ class nowshowing:
         def click(movie_name):
             nowshowing.nowshowingbool = "True"
             root.destroy()
-            print(movie_name)
         font_button = font.Font(size=16, weight='bold', family='Helvetica')
         self.image1 = self.image1.resize((self.sizex, self.sizey), Image.ANTIALIAS)
         self.image1 = ImageTk.PhotoImage(self.image1)
