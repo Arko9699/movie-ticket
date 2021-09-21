@@ -218,23 +218,23 @@ insert into movie_details values('Fast and Furious 9', 'South City Mall', '05:30
 
 #hindi
 insert into movie_details values('Bell Bottom', 'Hiland Park', '10:00 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '05:30 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 #3d
 insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '06:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '12:30 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 
 ###---Quest Mall---###
@@ -242,23 +242,23 @@ insert into movie_details values('Bell Bottom', 'Hiland Park', '12:30 PM', 'Hind
 
 #hindi
 insert into movie_details values('Bell Bottom', 'Quest Mall', '10:00 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'Quest Mall', '05:30 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 #3d
 insert into movie_details values('Bell Bottom', 'Quest Mall', '09:40 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'Quest Mall', '01:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'Quest Mall', '08:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 
 ###---South City Mall---###
@@ -266,24 +266,24 @@ insert into movie_details values('Bell Bottom', 'Quest Mall', '08:00 PM', 'Hindi
 
 #hindi
 insert into movie_details values('Bell Bottom', 'South City Mall', '10:00 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'South City Mall', '05:30 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 
 #3d
 insert into movie_details values('Bell Bottom', 'South City Mall', '11:00 AM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'South City Mall', '03:30 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 insert into movie_details values('Bell Bottom', 'South City Mall', '07:00 PM', 'Hindi', '2h 10m',
-                                 'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
+                                 'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '3D');
 
 ##---Free Guy--##
