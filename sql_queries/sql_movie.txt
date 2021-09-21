@@ -106,43 +106,43 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'S
                                  'UA', 'Action, Adventure, Fantasy', '3D');
 
 
-##---Pierrot Le Fou--##
+##---Pierrot-Le-Fou--##
 
 ###---Hiland Park---###
 
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '08:00 AM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Hiland Park', '08:00 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '12:30 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Hiland Park', '12:30 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Hiland Park', '06:00 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Hiland Park', '06:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
 
 ###---Quest Mall---###
 
 #2d
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '09:40 AM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Quest Mall', '09:40 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '01:00 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Quest Mall', '01:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'Quest Mall', '08:00 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'Quest Mall', '08:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
 
 ###---South City Mall---###
 
 #2d
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '11:00 AM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'South City Mall', '11:00 AM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '03:30 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'South City Mall', '03:30 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
-insert into movie_details values('Pierrot Le Fou', 'South City Mall', '07:00 PM', 'English', '1h 50m',
+insert into movie_details values('Pierrot-Le-Fou', 'South City Mall', '07:00 PM', 'English', '1h 50m',
                                  'Pierrot escapes his boring society and travels from Paris to the Mediterranean Sea with Marianne, a girl chased by hit-men from Algeria. They lead an unorthodox life, always on the run. The film is directed by Jean-Luc Godard.',
                                  'A', 'Crime, Drama, Romance', '2D');
 
