@@ -24,7 +24,7 @@ def movieHallDetails(movie_name, movie_lang, movie_d, db_con ):
     return myresult
 
 def createCon():
-    db_con = getMySQLConnection("localhost", "root", "chintu123", "master")
+    db_con = getMySQLConnection("localhost", "root", "", "master")
     return db_con
 
 def closeCon(db_con):
