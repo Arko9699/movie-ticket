@@ -29,9 +29,11 @@ expirym_input = Entry(root, width = 5)
 expirym_input.insert(0, "MM")
 expirym_input.grid(row = 2, column=1, sticky=W, padx=5)
 
+sep=Label(root,text="/").grid(row = 2, column=1, sticky=W, padx=39)
+
 expiryy_input = Entry(root, width = 5)
 expiryy_input.insert(0, "YY")
-expiryy_input.grid(row = 2, column=1, sticky=W, padx=42)
+expiryy_input.grid(row = 2, column=1, sticky=W, padx=50)
 
 cvv_input = Entry(root, width = 30)
 cvv_input.insert(0, "CVV")
