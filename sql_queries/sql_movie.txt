@@ -247,7 +247,7 @@ insert into movie_details values('Bell Bottom', 'Quest Mall', '10:00 AM', 'Hindi
 insert into movie_details values('Bell Bottom', 'Quest Mall', '05:30 PM', 'Hindi', '2h 10m',
                                  'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
-insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
+insert into movie_details values('Bell Bottom', 'Quest Mall', '08:00 PM', 'Hindi', '2h 10m',
                                  'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 #3d
@@ -271,7 +271,7 @@ insert into movie_details values('Bell Bottom', 'South City Mall', '10:00 AM', '
 insert into movie_details values('Bell Bottom', 'South City Mall', '05:30 PM', 'Hindi', '2h 10m',
                                  'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
-insert into movie_details values('Bell Bottom', 'Hiland Park', '08:00 PM', 'Hindi', '2h 10m',
+insert into movie_details values('Bell Bottom', 'South City Mall', '08:00 PM', 'Hindi', '2h 10m',
                                  'Amongst multiple heinous airplane hijacks, India was made to face another such challenge in 1984. BellBottom, a RAW agent played by Akshay Kumar sees through the plan and thus, begins India`s first covert operation.',
                                  'UA', 'Action, Thriller', '2D');
 
