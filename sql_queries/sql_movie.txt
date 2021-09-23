@@ -58,10 +58,10 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'Q
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
 #hindi
-insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'Quest Mall', '10:00 AM', 'Hindi', '2h 13m',
+insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'Quest Mall', '11:30 AM', 'Hindi', '2h 13m',
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'Quest Mall', '05:30 PM', 'Hindi', '2h 13m',
+insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'Quest Mall', '07:00 PM', 'Hindi', '2h 13m',
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
 #3d
@@ -88,10 +88,10 @@ insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'S
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
 #hindi
-insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'South City Mall', '10:00 AM', 'Hindi', '2h 13m',
+insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'South City Mall', '01:00 PM', 'Hindi', '2h 13m',
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
-insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'South City Mall', '05:30 PM', 'Hindi', '2h 13m',
+insert into movie_details values('Shang-Chi and the Legend of the Ten Rings', 'South City Mall', '08:00 PM', 'Hindi', '2h 13m',
                                  'Shang-Chi and The Legend of The Ten Rings features Simu Liu as Shang-Chi, who must confront the past he thought he left behind when he is drawn into the web of the mysterious Ten Rings organization. The film is directed by Destin Daniel Cretton and produced by Kevin Feige and Jonathan Schwartz.',
                                  'UA', 'Action, Adventure, Fantasy', '2D');
 #3d
