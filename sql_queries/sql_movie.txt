@@ -183,10 +183,10 @@ insert into movie_details values('Fast and Furious 9', 'Quest Mall', '08:00 PM',
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
 #hindi
-insert into movie_details values('Fast and Furious 9', 'Quest Mall', '10:00 AM', 'Hindi', '2h 23m',
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '11:30 AM', 'Hindi', '2h 23m',
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
-insert into movie_details values('Fast and Furious 9', 'Quest Mall', '05:30 PM', 'Hindi', '2h 23m',
+insert into movie_details values('Fast and Furious 9', 'Quest Mall', '07:00 PM', 'Hindi', '2h 23m',
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
 
@@ -204,10 +204,10 @@ insert into movie_details values('Fast and Furious 9', 'South City Mall', '07:00
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
 #hindi
-insert into movie_details values('Fast and Furious 9', 'South City Mall', '10:00 AM', 'Hindi', '2h 23m',
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '01:00 PM', 'Hindi', '2h 23m',
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
-insert into movie_details values('Fast and Furious 9', 'South City Mall', '05:30 PM', 'Hindi', '2h 23m',
+insert into movie_details values('Fast and Furious 9', 'South City Mall', '08:00 PM', 'Hindi', '2h 23m',
                                  'Dom`s peaceful life with his wife Letty and son Brian is shattered when Dom`s past catches up to him. The gang is up against the most skilled assassin and high-performance driver - his little brother Jakob.',
                                  'UA', 'Action, Adventure, Crime, Thriller', '2D');
 
@@ -322,10 +322,10 @@ insert into movie_details values('Free Guy', 'Quest Mall', '08:00 PM', 'English'
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
 #hindi
-insert into movie_details values('Free Guy', 'Quest Mall', '10:00 AM', 'Hindi', '1h 55m',
+insert into movie_details values('Free Guy', 'Quest Mall', '11:30 AM', 'Hindi', '1h 55m',
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
-insert into movie_details values('Free Guy', 'Quest Mall', '05:30 PM', 'Hindi', '1h 55m',
+insert into movie_details values('Free Guy', 'Quest Mall', '07:00 PM', 'Hindi', '1h 55m',
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
 
@@ -343,9 +343,9 @@ insert into movie_details values('Free Guy', 'South City Mall', '07:00 PM', 'Eng
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
 #hindi
-insert into movie_details values('Free Guy', 'South City Mall', '10:00 AM', 'Hindi', '1h 55m',
+insert into movie_details values('Free Guy', 'South City Mall', '01:00 PM', 'Hindi', '1h 55m',
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
-insert into movie_details values('Free Guy', 'South City Mall', '05:30 PM', 'Hindi', '1h 55m',
+insert into movie_details values('Free Guy', 'South City Mall', '08:00 PM', 'Hindi', '1h 55m',
                                  'When Guy, a bank teller, realises he is a background character in an open-world video game called Free City, he sets about trying to become the hero but soon gets involved in trying to save the game before the developers shut it down.',
                                  'A', 'Action, Adventure, Comedy, Fantasy', '2D');
