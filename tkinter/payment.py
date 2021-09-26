@@ -5,7 +5,7 @@ root.geometry("375x200")
 root.title("Payment Options")
 
 def netbank():
-    blank=Label(root).grid(column=1, pady=5)
+    blank=Label(root).grid(column=1, pady=5, sticky=E)
 
     userid_input = Entry(root, width = 30)
     userid_input.insert(0, "Enter user ID")
@@ -16,8 +16,8 @@ def netbank():
     pass_input.grid(row = 2, column = 1, sticky=W, padx=5)
 
     #Labels for input boxes
-    userid_label = Label(root, text = "User ID", padx = 40, pady = 2).grid(row = 1, column = 0)
-    pass_label = Label(root, text = "Password", pady = 2).grid(row = 2, column = 0)
+    userid_label = Label(root, text = "User ID", pady = 2).grid(row = 1, column = 0, sticky=W, padx=10)
+    pass_label = Label(root, text = "Password", pady = 2).grid(row = 2, column = 0, sticky=W, padx=10)
 
 def card():
     blank=Label(root).grid(column=1, pady=5)
@@ -45,10 +45,10 @@ def card():
     cvv_input.grid(row = 4, column = 1, sticky=W, padx=5)
 
     #Labels for input boxes
-    cardnumber_label = Label(root, text = "Card Number", padx = 40, pady = 2).grid(row = 1, column = 0)
-    cardname_label = Label(root, text = "Name on card owner", pady = 2).grid(row = 2, column = 0)
-    expiry_label = Label(root, text = "Expiry date", pady = 2).grid(row = 3, column = 0)
-    cvv_label = Label(root, text = "CVV", pady = 2).grid(row = 4, column = 0)
+    cardnumber_label = Label(root, text = "Card Number", pady = 2).grid(row = 1, column = 0, sticky=W, padx=10)
+    cardname_label = Label(root, text = "Name on card owner", pady = 2).grid(row = 2, column = 0, sticky=W, padx=10)
+    expiry_label = Label(root, text = "Expiry date", pady = 2).grid(row = 3, column = 0, sticky=W, padx=10)
+    cvv_label = Label(root, text = "CVV", pady = 2).grid(row = 4, column = 0, sticky=W, padx=10)
 
 def clear():
     list = root.grid_slaves()
