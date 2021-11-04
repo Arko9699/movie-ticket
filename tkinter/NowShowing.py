@@ -37,7 +37,7 @@ class nowshowing:
 
 def movieobjects():
     movie1 = nowshowing("Bell Bottom", 250, 375, "assets/bellbottomposter.png", 0, 0)
-    movie2 = nowshowing("Free guy", 250, 375, "assets/freeguyposter.png", 0, 1)
+    movie2 = nowshowing("Free Guy", 250, 375, "assets/freeguyposter.png", 0, 1)
     movie3 = nowshowing("Pierrot-Le-Fou", 250, 375, "assets/pierrot-le-fouposter.png", 0, 2)
     movie4 = nowshowing("Fast and Furious 9", 287, 375, "assets/fastandfurious9poster.png", 0, 3)
     movie5 = nowshowing("Shang-Chi", 250, 375, "assets/shang-chiposter.png", 0, 4)
