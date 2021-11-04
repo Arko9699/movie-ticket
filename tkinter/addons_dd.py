@@ -24,22 +24,22 @@ class addons:
             canvas.grid(row=x, column=y, sticky=W)
         
         #Large Popcorn
-        images("tkinter/assets/addons/popcornL.png", 0, 0)
+        images("assets/addons/popcornL.png", 0, 0)
         Label(root, text="Popcorn L | ₹200").grid(row=1,column=0, sticky=W)
         item(1,0,ent1)
 
         #Small Popcorn
-        images("tkinter/assets/addons/popcornS.png", 0, 3)  
+        images("assets/addons/popcornS.png", 0, 3)  
         Label(root, text="Popcorn S | ₹120").grid(row=1,column=3, sticky=W)
         item(1,3,ent2)
 
         #Large Coke
-        images("tkinter/assets/addons/cokeL.png", 3, 0)
+        images("assets/addons/cokeL.png", 3, 0)
         Label(root, text="Coke L | ₹150").grid(row=4,column=0, sticky=W)
         item(4,0,ent3)
 
         #Small Coke
-        images("tkinter/assets/addons/cokeS.png", 3, 3)
+        images("assets/addons/cokeS.png", 3, 3)
         Label(root, text="Coke S | ₹80").grid(row=4,column=3, sticky=W)
         item(4,3,ent4)
 
