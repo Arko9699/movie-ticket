@@ -23,6 +23,7 @@ def movieHallDetails(movie_name, movie_lang, movie_d, db_con ):
     myresult = mycursor.fetchall()
     return myresult
 
+#ENTER YOUR SQL USER AND PASS HERE
 def createCon():
     db_con = getMySQLConnection("localhost", "root", "newpassword69", "master")
     return db_con
