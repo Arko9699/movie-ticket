@@ -15,7 +15,7 @@ def check():
         ent.grid(row=x1, column=y1, sticky=E, padx=(100, 0))
 
     def addons_add():
-        list1 = ["\n", str(clicked1.get()), str(clicked2.get()), str(clicked3.get()), str(clicked4.get())]
+        list1 = ["\n", str(clicked1.get())," ", str(clicked2.get())," ", str(clicked3.get()), " ", str(clicked4.get())]
         f1 = open("moviename.txt", 'a')
         f1.writelines(list1)
         f1.close()
