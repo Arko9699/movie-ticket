@@ -8,5 +8,7 @@ from seatselection import *
 seats()
 from addons import *
 check()
+from bill import *
+bills()
 from payment import *
 payment1()
