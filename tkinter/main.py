@@ -1,14 +1,14 @@
-from NowShowing import *
-movieobjects()
-from booktickets import *
-bookticketsobject()
-from halltimings import *
-hallobjects()
-from seatselection import *
-seats()
-from addons import *
-check()
-from bill import *
-bills()
-from payment import *
-payment1()
+import NowShowing
+NowShowing.movieobjects()
+import booktickets
+booktickets.bookticketsobject()
+import halltimings
+halltimings.hallobjects()
+import seatselection
+seatselection.seats()
+import addons
+addons.check()
+import bill
+bill.bills()
+import payment 
+payment.payment1()
