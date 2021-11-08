@@ -46,4 +46,5 @@ def movieobjects():
     movie3.makelabel()
     movie4.makelabel()
     movie5.makelabel()
+    nowshowing_root.resizable(False, False)
     nowshowing_root.mainloop()
