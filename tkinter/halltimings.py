@@ -52,6 +52,6 @@ def hallobjects():
             m1 = HallTimings(myresult, 2, c, i[0], i[1])
             m1.makehalllabel()
             c += 1
-
+    hallroot.resizable(False, False)
     hallroot.mainloop()
     closeCon(db_con)
