@@ -54,4 +54,5 @@ def check():
     Label(addons_root).grid(row=2, pady=10)
     Label(addons_root).grid(column=2, padx=10)
     Button(addons_root, text="Continue", command=addons_add).grid(row=6, column=3, sticky=E)
+    addons_root.resizable(False, False)
     addons_root.mainloop()
