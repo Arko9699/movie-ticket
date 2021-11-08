@@ -69,5 +69,6 @@ def payment1():
         for i in lst:
             i.destroy()
 
+    payment_root.resizable(False, False)
     payment_root.mainloop()
 
