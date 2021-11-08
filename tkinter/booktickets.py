@@ -78,5 +78,6 @@ def bookticketsobject():
         m1 = "assets/" + m.lower() + "poster.png"
     b = BookTickets(m1, myresult)
     b.makephotolabel()
+    bookroot.resizable(False, False)
     bookroot.mainloop()
     closeCon(db_con)
