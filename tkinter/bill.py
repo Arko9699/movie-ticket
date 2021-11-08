@@ -86,5 +86,5 @@ def bills():
 
     f.write('\n'+total)
     f.close()
-
+    bill_root.resizable(False, False)
     bill_root.mainloop()
