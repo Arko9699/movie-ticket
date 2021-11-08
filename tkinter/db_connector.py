@@ -25,7 +25,7 @@ def movieHallDetails(movie_name, movie_lang, movie_d, db_con ):
 
 #ENTER YOUR SQL USER AND PASS HERE
 def createCon():
-    db_con = getMySQLConnection("localhost", "root", "newpassword69", "master")
+    db_con = getMySQLConnection("localhost", "root", "chintu123", "master")
     return db_con
 
 def closeCon(db_con):

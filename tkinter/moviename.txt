@@ -1,7 +1,10 @@
-Pierrot-Le-Fou
-English
+Bell Bottom
+Hindi
 2D
 Quest Mall
-09:40 AM
-D10 D6 D7 D8 D9 
-0410
+08:00 PM
+E7 E8 E9 
+3 0 0 3
+1663.80
+672.60
+991.20

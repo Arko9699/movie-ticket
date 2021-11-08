@@ -12,3 +12,5 @@ import bill
 bill.bills()
 import payment 
 payment.payment1()
+import receipt
+receipt.receipts()

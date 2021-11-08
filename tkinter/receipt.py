@@ -8,7 +8,7 @@ screen_width = receipt_root.winfo_screenwidth()
 screen_height = receipt_root.winfo_screenheight()
 
 def takemoviename():
-    f1 = open("tkinter/moviename.txt", "r")
+    f1 = open("moviename.txt", "r")
     a = f1.readlines()
     return a
 
@@ -25,10 +25,10 @@ addon_price = "Rs " + takemoviename()[9].replace('\n', "")
 
 if movie_name == "Shang-Chi and the Legend of the Ten Rings":
     movie_name = f"Shang-Chi and the Legend {movie_d}\nof the Ten Rings"
-    movie_img_name = "tkinter/assets/shang-chiposter.png"
+    movie_img_name = "assets/shang-chiposter.png"
 else:
     movie_img_name = movie_name.replace(" ", "")
-    movie_img_name = "tkinter/assets/" + movie_img_name.lower() + "poster.png"
+    movie_img_name = "assets/" + movie_img_name.lower() + "poster.png"
     movie_name = movie_name + " " + movie_d
 
 
@@ -76,5 +76,5 @@ def receipts():
     height = receipt_root.winfo_height()
     x, y = (screen_width/2) - (width/2), (screen_height/2) - (height/2)
     receipt_root.geometry('+%d+%d' % (x, y))
-   
+    receipt_root.resizable(False, False)
     receipt_root.mainloop()
