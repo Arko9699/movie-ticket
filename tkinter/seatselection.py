@@ -55,4 +55,5 @@ def seats():
                 if a[-1] == "D":
                     globals()[seats_array1[row][column]].configure(state="disabled", bg="#b2beb5")
     Button(seat_root, command=bookbutton, text="Book Tickets", height=1, width=20, font=17).grid(row=15, column=5, columnspan=10)
+    seat_root.resizable(False, False)
     seat_root.mainloop()
