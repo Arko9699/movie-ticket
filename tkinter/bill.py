@@ -34,8 +34,7 @@ def bills():
 
     addonsprice = addonscost()
     seatprice, low, med, high = seatcost()
-    font=("Arial", 18)
-    Label(bill_root, text="Bill", font=("Arial", 20)).grid(row=0, column=0, columnspan=3)
+    Label(bill_root, text="Bill", font=("Arial", 18)).grid(row=0, column=0, columnspan=3)
     # seats
     if high != 0:
         Label(bill_root, font=15, text="Gold | ₹250").grid(row=1, sticky=W)
