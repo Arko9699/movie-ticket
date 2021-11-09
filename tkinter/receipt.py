@@ -1,12 +1,15 @@
 from tkinter import *
 from PIL import ImageTk, Image, ImageGrab
+import random
 import ctypes
 ctypes.windll.shcore.SetProcessDpiAwareness(2)
+
 receipt_root = Tk()
 receipt_root.title("Receipt")
 
 screen_width = receipt_root.winfo_screenwidth()
 screen_height = receipt_root.winfo_screenheight()
+
 
 def takemoviename():
     f1 = open("moviename.txt", "r")
@@ -14,6 +17,7 @@ def takemoviename():
     return a
 
 
+booking_id = random.randint(900000, 1000000)
 movie_name = takemoviename()[0].replace('\n', "")
 movie_lang = takemoviename()[1].replace('\n', "")
 movie_d = "(" + takemoviename()[2].replace('\n', "") + ")"
@@ -34,15 +38,14 @@ else:
 
 
 def receipts():
-    
     def click():
-        
-        im = ImageGrab.grab(bbox=(x+8, y+30, x+width+8, y+height-50))
+        im = ImageGrab.grab(bbox=(x + 8, y + 37, x + width + 8, y + height - 50))
         im.save("BookingReceipt.png")
         receipt_root.destroy()
 
     # Labels
-    Label(receipt_root, text="Booking ID: 920390", font=("Arial", 20)).grid(row=0, columnspan=3, sticky="S", pady=10)
+    Label(receipt_root, text=f"Booking ID: {booking_id}", font=("Arial", 20)).grid(row=0, columnspan=3, sticky="S",
+                                                                                   pady=10)
     Label(receipt_root, text=movie_name, font=("Arial", 24), justify="left").grid(row=1, column=0, pady=20,
                                                                                   padx=5, sticky=W)
     Label(receipt_root, text=movie_time, font=("Arial", 15)).grid(row=2, column=0, sticky="W", padx=5)
@@ -52,13 +55,13 @@ def receipts():
     Label(receipt_root, text="", font=("Arial", 20)).grid(row=5, column=0, padx=5, sticky="W")
     Label(receipt_root, text="Ticket amount", font=("Arial", 20)).grid(row=6, column=0, padx=5, sticky="W")
     Label(receipt_root, text=f"-       {seat_price}", font=("Arial", 20)).grid(row=6, column=1,
-                                                                                padx=5, sticky="E")
+                                                                               padx=5, sticky="E")
     Label(receipt_root, text="Other items", font=("Arial", 20)).grid(row=7, column=0, padx=5, sticky="W")
     Label(receipt_root, text=f"-       {addon_price}", font=("Arial", 20)).grid(row=7, column=1,
-                                                                                 padx=5, sticky="E")
+                                                                                padx=5, sticky="E")
     Label(receipt_root, text="Total Amount Paid", font=("Arial", 20)).grid(row=8, column=0, padx=5, sticky="W")
     Label(receipt_root, text=f"-       {total_price}", font=("Arial", 20)).grid(row=8, column=1,
-                                                                                 padx=5, sticky="E")
+                                                                                padx=5, sticky="E")
     Button(receipt_root, text="Download Receipt", font=("Arial", 20), command=click).grid(row=9, columnspan=3,
                                                                                           sticky="S", pady=15)
 
@@ -70,12 +73,11 @@ def receipts():
     canvas.grid(row=1, column=1, rowspan=4)
 
     receipt_root.resizable(False, False)
-    receipt_root.overrideredirect(True)
 
     receipt_root.update()
     width = receipt_root.winfo_width()
     height = receipt_root.winfo_height()
-    x, y = (screen_width/2) - (width/2), (screen_height/2) - (height/2)
+    x, y = (screen_width / 2) - (width / 2), (screen_height / 2) - (height / 2)
     receipt_root.geometry('+%d+%d' % (x, y))
-    receipt_root.resizable(False, False)
+
     receipt_root.mainloop()
