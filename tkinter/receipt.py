@@ -1,9 +1,7 @@
-
-import ctypes
-ctypes.windll.shcore.SetProcessDpiAwareness(2)
 from tkinter import *
 from PIL import ImageTk, Image, ImageGrab
-
+import ctypes
+ctypes.windll.shcore.SetProcessDpiAwareness(2)
 receipt_root = Tk()
 receipt_root.title("Receipt")
 
