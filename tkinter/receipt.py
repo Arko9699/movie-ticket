@@ -36,8 +36,8 @@ def receipts():
     
     def click():
         
-        im = ImageGrab.grab(bbox=(x, y, x+width, y+height))
-        im.save("BookingReceipt.jpg")
+        im = ImageGrab.grab(bbox=(x+8, y+30, x+width+8, y+height-50))
+        im.save("BookingReceipt.png")
         receipt_root.destroy()
 
     # Labels
