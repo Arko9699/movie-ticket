@@ -15,7 +15,7 @@ def bills():
 
     seats = lines[-2].split()
     extras = lines[-1].split()
-
+    
     def seatcost():
         high, med, low = 0, 0, 0
         for i in seats:
@@ -34,6 +34,7 @@ def bills():
 
     addonsprice = addonscost()
     seatprice, low, med, high = seatcost()
+    font=("Arial", 18)
     Label(bill_root, text="Bill", font=("Arial", 20)).grid(row=0, column=0, columnspan=3)
     # seats
     if high != 0:
