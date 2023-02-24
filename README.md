@@ -9,6 +9,8 @@ Creation of a database storing all relevant movie details and a GUI allowing the
   <img alt="Format" src="./assets/format.png" />
   <img alt="Timings" src="./assets/timingspng.png" />
   <img alt="Seats" src="./assets/seats.png" />
+</p>
+<p align="center">
   <img alt="Addons" src="./assets/addons.png" />
   <img alt="Payment" src="./assets/payment.png" />
   <img alt="Receipt" src="./assets/receipt.png" />
