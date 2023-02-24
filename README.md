@@ -2,6 +2,19 @@
 Creation of a database storing all relevant movie details and a GUI allowing the user to interact with said database to book movie tickets and peripherals.
 </br>
 
+# Modules Used
+- tkinter
+- PIL
+- Random
+- ctypes
+- mysql.connector
+
+# Prerequisites
+- Python v3.9
+- MySQL v8.0
+- A Windows Machine
+</br>
+
 # Screenshots of Windows
 <p align="center">
   <img alt="Landing" src="./assets/landing.png" />
